@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training. xdlol
+Repo for the `GitHub Actions Fundamentals` training. xdlol2
 
 ## 👉 Objectives
 
